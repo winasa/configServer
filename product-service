@@ -1,7 +1,7 @@
 server.port=8181
 configuracion.texto=Configurando ambiente desarrollo test
 spring.application.name=PRODUCT-SERVICE
-#spring.devtools.add-properties=false
+spring.devtools.add-properties=false
 spring.data.mongodb.host=localhost
 spring.data.mongodb.port=27017
 spring.data.mongodb.database=ecommerce
